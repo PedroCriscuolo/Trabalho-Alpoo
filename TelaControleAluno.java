@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 public class TelaControleAluno extends JFrame implements WindowListener{
 
     private PainelCadastroAluno painelCadastroAluno;
-    private PainelBuscaAluno painelBuscaAlunos;
+    private PainelBuscaAluno painelBuscaAlunos2;
     
     private GerenciadorDeAluno gerenciador;
 
